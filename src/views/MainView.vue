@@ -16,6 +16,6 @@ export default {};
   height: 700px;
   width: 700px;
   background-size: contain;
-  background-image: url("./cat.gif");
+  background-image: url("../assets/cat.gif");
 }
 </style>
